@@ -1,0 +1,168 @@
+PERSONAL INFORMATION
+Leonardo David Luna Nicolás
+Integration Developer
+Zaragoza, Puebla, México
++52 222 9082 281
+leonardo.luna.nicolas@outlook.com
+https://github.com/LeonardoDavidLuna
+https://leonardodavidluna.github.io/Portafolio/
+
+ABOUT ME
+I am Leonardo Luna, a programmer specializing in data integration software with expertise in leading tools such as webMethods, MuleSoft, and Seeburger. My professional career has focused on designing and developing integration solutions that facilitate the flow of data between diverse systems, optimizing processes and enhancing operational efficiency. If you are looking for someone who can analyze your integration processes and elevate your systems to the next level, I would be delighted to discuss how I can contribute value to your team.
+
+EXPERIENCE
+AUG/2025 - Present
+TicTacSoft - Community Manager, (Remote)
+Designed, created and maintained the software brand TicTacSoft and its accompanying website.
+Built and nurtured long-term relationships with clients and online followers through content creation and distribution, writing high-quality articles tailored for various digital platforms and audiences.
+Fostered community engagement by responding to comments, messages and managing conflicts or reputational crises.
+Measured the impact of online actions using analytics tools (e.g., Google Console, Google Analytics) to understand brand perception and improve communication strategy.
+Represented the brand in a relatable, empathetic and professional manner.
+Stayed current with emerging technologies and content formats, such as short-form videos and interactive content.
+Integrated Artificial Intelligence tools to optimize tasks while maintaining a human touch of empathy, strategy and messaging for the end user.
+
+APR/2025 - Present
+Sublime Design - webMethods / MuleSoft Consultant, (Remote)
+I was responsible for performing all configurations for a development server, defining IP addresses, ports, firewall rules and scripts batch to access it.
+I configured database connections from Oracle, Microsoft SQL Server, MySQL, and PostgreSQL
+I configured the data integrators: webMethods and MuleSoft, as well as their connections to the databases using JDBC adapters.
+I created and maintained stored procedures in Oracle with PL/SQL and executed them from Integration Server.
+I designed APIs for managing customer purchase orders and generated reports from Oracle stored procedures to create CSV files with UM Server.
+
+DEC/2023 – JUN/2024
+Mark Anthony Wine - Solutions Architect, (Remote)
+I developed an interface to track developer performance from exported Jira reports (XLSX), using Anypoint Studio, Git, DataWeave, and REST APIs.
+I used connectors to extract data into files for workflow construction and Dataweave languange to transform it.
+I managed dependencies with Maven and version control with Git.
+I designed and developed experience and system layers, integrated with Microsoft SQL Server.
+I I created documentation on the endpoints, methods and examples of the APIs in Confluence.
+
+MAY/2023 – SEP/2023
+OXXO - Integration Consultant, (Remote)
+I analyzed and documented interfaces developed in webMethods for their migration to a microservices architecture on AWS.
+I collaborated on the adaptation of webMethods workflow services and PL/SQL code to Java microservices, ensuring functional continuity.
+I collaborated on the architectural design of the new cloud solution on AWS.
+I performed extensive testing and debugging of webMethods interfaces and Oracle databases to facilitate the development of the new microservices.
+I validated the parity of results between the webMethods interfaces and the new microservices.
+I used Enterprise Architect to model the functionality and architecture of the interfaces.
+
+OCT/2022 – MAR/2023
+Hoffman / Magna - Integration Consultant, Puebla, México
+I developed data mappings from IDOC and CSV files using BIS Designer (Seeburger) for generating client invoices.
+I managed Microsoft SQL Server databases for invoice stamping, correcting rounding errors and data entry.
+I collaborated on the development of a web portal for clients (Hoffmann and Magna) for invoice generation.
+I developed microservices using Java, JPA, NetBeans, Angular, and web services.
+I designed and corrected errors in reports generated with Jasper Reports.
+I managed Windows Servers in the context of integration processes.
+
+MAR/2022 – AUG/2022
+Colgate-Palmolive - EDI Data Integration Specialist, Puebla, México
+I configured Partner Profiles, Trading Partner Agreements, and Processing Rules in myWebMethods.
+I validated the standard EDIFACT EDI message structure (DESADV, RECADV, OSTRP, INSDES, INVRPT) and mapped transactions between Colgate and customers.
+I monitored EDI transactions through Trading Network to ensure integrity and correct data transmission.
+I corrected and optimized “Split-Line” development for the 856 standard (ANSI X12 EDI) to eliminate duplicate segments in the EDI structure for Colgate North America customers.
+I migrated Java Services to Flow Service to maintain functionality in Integration Server 10.2.
+
+JUN/2021 – FEB/2022
+OXXO - Interface Maintenance, Puebla, México
+I applied client development standards in the creation and modification of mappings with new business rules. I implemented JDBC connections to Oracle databases to execute SQL queries and analyzed PL/SQL code. I managed FTP files generated by interfaces and the Universal Messaging (UM) server for asynchronous executions. I resolved errors, performed debugging, and created diagrams (sequence, components, entity-relationship) for new solutions. I administered Integration Server: groups, users, adapters, global variables, and execution schedulers. I deployed changes between development, testing, and production environments.
+
+OTHER ACTIVITIES
+DEC/2024 - Present
+Project Manager and Full-Stack Developer, Zaragoza, México
+I lead the creation and management of a brand and marketing company specializing in product sublimation, managing operations, design, finance, and production.
+I developed and maintain a CRM website for managing customers, products, suppliers, sales and databases.
+
+AUG/2012 - AUG/2018
+Full-Stack Developer, University
+I developed university management systems, minigames with JS to teach English to children, 2D video games, and 3D animations with Autodesk Maya. I collaborated in the development of medical systems using React/React Native and Laravel. I created embedded systems with prototyped electronic boards (Arduino), sensors, and motors in a Line-Following Robot and War Robots. I developed an Android application for expense management, as well as a video game using Raspberry Pi, gyroscope sensor, and Python. I kept a diary for 5 years with over 30,000 pages, among many other projects.
+
+EDUCATION
+	Computer Science Engineer
+	Benemérita Universidad Autónoma de Puebla
+	2012 - 2018
+	Puebla, México
+
+CERTIFICATIONS
+	OCT/2021
+	Software AG Certified webMethods Integration Professional
+	MAY/2022
+	SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50
+
+SOFT SKILLS
+	Organized
+	Creative
+	Teamwork
+	Adaptability
+	Critical Thinking
+
+LANGUAGES
+	Spanish (Native)
+	English (B2)
+	French  (Hobbie)
+
+TECHNOLOGIES
+Integrations
+	webMethods
+	MuleSoft
+	Seeburger
+	SAP ABAP
+	JDBC
+	Java Services
+	REST/SOAP Services
+
+Databases
+	SQL
+	Oracle DB
+	Microsoft SQL Server
+	MySql
+	PL/SQL
+	SQLite
+	
+Frameworks, IDEs and more
+	Netbeans / Eclipse / VSCode
+	Android Studio
+	Intellij
+	Git / GitHub / GitLab
+	CodeIgniter / Laravel / Angular
+	Wordpress
+	Elementor Designer
+	Bootstrap
+	Jasper Reports
+	JPA
+	Spring Boot
+	Maven / Gradle
+	Docker
+	React / React Native / Expo Server
+	Postman / ARC
+
+Hardware and OS
+	Arduino / Raspberry Pi
+	Sensors
+	Windows / Linux / Android
+
+Animation and Design
+	AutoDesk Maya (3D Animation)
+	Stencyl (Videogames development 2D)
+	Piskels (Pixels Design)
+	Canva
+	Development Languages
+	Java
+	JavaScript
+	PHP
+	C#, C++, C
+	Python
+	Kotlin
+	Dataweave
+
+HOBBIES
+	Gardening
+	Cycling
+	Photography
+	Traveling
+	Designing
+	Pets
+	Hiking
+	Writing
+	Organizing
+	Learning
