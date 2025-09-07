@@ -1,6 +1,6 @@
 PERSONAL INFORMATION
 Leonardo David Luna Nicolás
-Integration Developer
+Integration Developer | Designer | Editor
 Zaragoza, Puebla, México
 +52 222 9082 281
 leonardo.luna.nicolas@outlook.com
@@ -12,22 +12,33 @@ I am Leonardo Luna, a programmer specializing in data integration software with 
 
 EXPERIENCE
 AUG/2025 - Present
-TicTacSoft - Community Manager, (Remote)
-Designed, created and maintained the software brand TicTacSoft and its accompanying website.
-Built and nurtured long-term relationships with clients and online followers through content creation and distribution, writing high-quality articles tailored for various digital platforms and audiences.
-Fostered community engagement by responding to comments, messages and managing conflicts or reputational crises.
-Measured the impact of online actions using analytics tools (e.g., Google Console, Google Analytics) to understand brand perception and improve communication strategy.
-Represented the brand in a relatable, empathetic and professional manner.
-Stayed current with emerging technologies and content formats, such as short-form videos and interactive content.
-Integrated Artificial Intelligence tools to optimize tasks while maintaining a human touch of empathy, strategy and messaging for the end user.
+TicTacSoft - Full Stack Developer, (Remote)
+I designed and developed a web platform/application called TicTacSoft as my personal new brand with the purpose of post software news, resources for developing and project from professionals looking for job opportunities.
+I'm responsible for the creation, editing, and publication of articles, tutorials, and technical guides. I led the curation of content on technology trends, software development and cybersecurity, ensuring the quality and relevance of the published material.
+I implemented an SEO-optimized website with a responsive design, improving visibility and accessibility across all devices. I managed the information architecture to deliver an intuitive and fluid user experience (UX).
 
-APR/2025 - Present
+DEC/2025 - Present
 Sublime Design - webMethods / MuleSoft Consultant, (Remote)
 I was responsible for performing all configurations for a development server, defining IP addresses, ports, firewall rules and scripts batch to access it.
 I configured database connections from Oracle, Microsoft SQL Server, MySQL, and PostgreSQL
 I configured the data integrators: webMethods and MuleSoft, as well as their connections to the databases using JDBC adapters.
 I created and maintained stored procedures in Oracle with PL/SQL and executed them from Integration Server.
 I designed APIs for managing customer purchase orders and generated reports from Oracle stored procedures to create CSV files with UM Server.
+
+Building a marketing company through Product Sublimation.
+Business administration, departments and finances.
+Mockup design, logos, branding, SEO positioning, creation of custom designs for products.
+Website construction as a CRM for managing clients, products, suppliers and sales.
+Website maintenance, bug fixes, adding translations, database management, product updates, employee emails.
+Preparation of designs to be sublimated, handling of sublimation machines and packaging for shipping to customers
+
+AUG/2024 - OCT, 2024
+Agüita Mex - Web Developer Freelancer (Remote)
+Updating a static site's UI to responsive elements using WordPress.
+Database management, graphic resources, payment platform management.
+Website maintenance, bug fixes and translations
+Functionality integration testing.
+Server management and hosting.
 
 DEC/2023 – JUN/2024
 Mark Anthony Wine - Solutions Architect, (Remote)
