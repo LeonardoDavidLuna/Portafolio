@@ -1,2 +1,2 @@
 # Portafolio
-Portafolio personal de proyectos.
+Portafolio personal de proyectos en progreso de actualizarse...
